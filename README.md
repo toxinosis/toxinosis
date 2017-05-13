@@ -1,2 +1,2 @@
 # toxinosis
-毒血
+toxinosis
